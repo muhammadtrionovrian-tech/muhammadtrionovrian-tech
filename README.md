@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Trio 👋
 
 🎓 Passionate about technology, problem solving, and building useful digital products.  
-💻 Focused on software development, continuous learning, and real-world impact.
+💻 Focused on AI engineering, continuous learning, and real-world impact.
 
 ---
 
@@ -13,78 +13,31 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### Tech Stack
+<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" /></a>
+<a href="https://numpy.org/"><img align="left" alt="NumPy" title="NumPy (Numerical Computing)" width="21px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" /></a>
+<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" title="Pandas (Data Analysis)" width="21px" src="https://cdn.worldvectorlogo.com/logos/pandas.svg" /></a>
+<a href="https://scikit-learn.org/"><img align="left" alt="Scikit-Learn" title="Scikit-Learn (Machine Learning)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
+<a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch (Deep Learning)" width="21px" src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" /></a>
+<a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow (Deep Learning)" width="21px" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" /></a>
+<a href="https://fastapi.tiangolo.com/"><img align="left" alt="FastAPI" title="FastAPI (ML Model API)" width="21px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" /></a>
+<a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker (Containerization)" width="21px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" /></a>
 
-### 💻 Programming Languages
-- JavaScript  
-- Python  
-- PHP  
-- [Add others]
+<br>
+<br>
 
-### 🌐 Web Development
-- HTML, CSS  
-- React JS  
-- Node.js  
-- Laravel  
-- [Add others]
-
-### 🗄️ Database
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma  
-- XAMPP / Docker  
-- [Add others]
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadtrionovrian-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadtrionovrian-tech&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
----
-
-## 🧠 Experience
-
-### 👨‍💻 [Role / Position] — [Company / Program Name]
-📅 [Year – Year]  
-- Built / contributed to **[project or system]**
-- Worked with **[tech stack]**
-- Collaborated in **[team / agile / remote]**
-
-### 🎓 [Bootcamp / Internship / Study Program]
-📅 [Year]  
-- Developed **[website / app / system]**
-- Learned **[skills or tools]**
-- Focused on **[specific field: frontend/backend/data/etc]**
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [Project Name]
-Short description of what the project does and its purpose.  
-**Tech used:** React, Node.js, MySQL  
-🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME
-
-### 🔹 [Project Name]
-Short description of what the project does.  
-**Tech used:** Laravel, Bootstrap  
-🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME
-
----
-
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- Portfolio: https://yourportfolio.com  
-- Email: your@email.com  
+- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME  ](https://www.linkedin.com/in/muhammad-trio-novrian-15469a24b/)  
+- Portfolio: [https://yourportfolio.com  ](https://xplorin.infinitelearningstudent.id/)  
+- Email: muhammadtrionovrian28@gmail.com    
 
 ---
 
