@@ -28,15 +28,15 @@
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/muhammadtrionovrian-tech">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadtrionovrian-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadtrionovrian-tech&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ## 📫 Connect With Me
-- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME  ](https://www.linkedin.com/in/muhammad-trio-novrian-15469a24b/)  
-- Portfolio: [https://yourportfolio.com  ](https://xplorin.infinitelearningstudent.id/)  
+- LinkedIn: [https://linkedin.com/in/muhammad-trio-novrian]
+- Portfolio: [https://xplorin.infinitelearningstudent.id]
 - Email: muhammadtrionovrian28@gmail.com    
 
 ---
