@@ -6,10 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: **[Project / Focus you’re learning now]**
-- 🌱 Currently learning: **[Tech / Skill you’re improving]**
-- 🎯 Goal: **[Your career or tech goal]**
-- ⚡ Fun fact: **[Something unique about you]**
+IDK
 
 ---
 
